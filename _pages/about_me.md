@@ -1,0 +1,3 @@
+A Senior Software Development Engineer with nearly a decade of industry experience in the field of Full stack, data engineering and MLOPs. I have worked across FinTech, Personalization, Fraud, Content AI and Machine learning Engineering teams. I specialize in building scalable and low latency software applications for real life use cases.
+
+I have delivered over 250+ mentoring sessions on Codementor.io in past and Here to create an impact! I want to influence the next wave of products in e-learning and help folks build their dream careers.

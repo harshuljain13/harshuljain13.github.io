@@ -1,0 +1,8 @@
+# Jekyll-specific files and directories.
+_sass_cache/
+node_modules/
+.DS_Store
+.tweet-cache/
+_site/
+# Ignore the Gemfile.lock file.
+Gemfile.lock
