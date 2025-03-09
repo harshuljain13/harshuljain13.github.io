@@ -6,6 +6,7 @@ Using Docker to install Jekyll and Ruby dependencies is the easiest way.
 $ bundle install
 $ docker compose pull
 $ docker compose up
+$ bundle exec jekyll serve --trace
 ```
 
 ## Deployment

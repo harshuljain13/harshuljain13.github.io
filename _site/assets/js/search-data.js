@@ -16,21 +16,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blogs/index.html";
           },
-        },{id: "nav-system-designs",
-          title: "System Designs",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/systemdesigns/index.html";
-          },
         },{id: "nav-papershelf",
           title: "Papershelf",
-          description: "Papers read by categories in reversed chronological order.",
+          description: "I read one paper every week around data engineering, mlops, and scalable system designs and here are some of them.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/papers/";
           },
-        },{id: "dropdown-collaborate",
+        },{id: "dropdown-tech-talks",
+              title: "Tech Talks",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-collaborate",
               title: "Collaborate",
               description: "",
               section: "Dropdown",

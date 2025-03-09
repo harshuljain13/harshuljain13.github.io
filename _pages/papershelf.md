@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: Papershelf
-description: Papers read by categories in reversed chronological order.
+description: I read one paper every week around data engineering, mlops, and scalable system designs and here are some of them.
 nav: true
 nav_order: 3
 ---

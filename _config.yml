@@ -80,12 +80,13 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: I love to read, learn and share my personal perspectives on topics related to Software development, Career Growth and Team work.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
